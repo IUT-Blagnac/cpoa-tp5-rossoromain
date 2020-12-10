@@ -40,9 +40,9 @@ ifdef::uk[]
 endif::[]
 ifndef::uk[]
 :lang: fr
-:lastName: NOM
-:firstName: Prénom
-:group: Groupe
+:lastName: ROSSO
+:firstName: Romain
+:group: 2A
 :example: Exemple
 :Enseignants: Enseignants
 :principe: Principe Objet
